@@ -8,8 +8,8 @@
     "secretKey": ""
   },
   "RTCConfig": {
-    "AppId": "",
-    "AppKey": "",
+    "AppId": "686752c736aa2001787ce5f8",
+    "AppKey": "6d40c860c8de4377a968a2dab756992c",
     "RoomId": "",
     "UserId": "",
     "Token": ""
